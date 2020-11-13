@@ -1,11 +1,9 @@
-### Hi there 👋 
-### This is Maximo Hinojosa!
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mhinojosa24)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maximohinojosa/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maximohinojosa13@gmail.com)
 
-Welcome to my repo with all my lovely projects! 
+### Hi there 👋 
+### Welcome to my repo with all my lovely projects! 
 
 <img align="right" alt="img" src="https://github.com/mhinojosa24/mhinojosa24.github.io/blob/main/aestheticCode.jpg" width="50%" height="auto" />
 
