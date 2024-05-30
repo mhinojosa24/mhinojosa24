@@ -9,12 +9,12 @@
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Science Bachelors Degree 
-- Taking online courses while attending Dominican University of California
-
+- Actively in the job market for the right company to make my mark as an iOS Engineer 
+- Creating engagement through a platform for watch enthusiasts
+  
 #### :muscle: Things I am challenging myself with:
 - Taking a deep dive into Swift architecture and dynamic programming 
-- Building a side project for the skateboarding community 
+- Building a side project for watch enthusiasts called WatchWise
  
 
 #### :computer: Programming languages and tools: 
